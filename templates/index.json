@@ -44,7 +44,7 @@
         "button"
       ],
       "custom_css": [
-        ".banner__box {background: rgba(255, 255, 255, 0.5); border-radius: 25px; font-weight: black;}"
+        ".banner__box {background: rgba(255, 255, 255, 0.5); border-radius: 25px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/IMG_3271.webp",
