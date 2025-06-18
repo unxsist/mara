@@ -47,10 +47,10 @@
         ".banner__box {background: rgba(255, 255, 255, 0.5); border-radius: 25px;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_3271.webp",
+        "image": "shopify://shop_images/tessa-edmiston-ECr_8nuXpBA-unsplash.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "desktop_content_position": "bottom-left",
         "desktop_content_alignment": "left",
         "show_text_box": true,
