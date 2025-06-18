@@ -12,26 +12,19 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "<strong>Shop nu onze zomer '25 collectie!</strong>",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Naar collectie",
             "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -39,13 +32,10 @@
         }
       },
       "block_order": [
-        "heading",
         "text",
         "button"
       ],
-      "custom_css": [
-        ".banner__box {background: rgba(255, 255, 255, 0.5); border-radius: 25px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/tessa-edmiston-ECr_8nuXpBA-unsplash.jpg",
         "image_overlay_opacity": 0,
@@ -53,7 +43,7 @@
         "image_behavior": "none",
         "desktop_content_position": "bottom-left",
         "desktop_content_alignment": "left",
-        "show_text_box": true,
+        "show_text_box": false,
         "color_scheme": "scheme-5a2dcd4d-fa4a-480d-b26b-7f476a77d92a",
         "stack_images_on_mobile": false,
         "mobile_content_alignment": "center",
