@@ -9,10 +9,11 @@
  */
 {
   "current": {
-    "logo_width": 90,
-    "type_header_font": "assistant_n4",
+    "logo": "shopify://shop_images/WhatsApp_Image_2025-06-18_at_16.42.14.jpg",
+    "logo_width": 200,
+    "type_header_font": "inter_n4",
     "heading_scale": 100,
-    "type_body_font": "assistant_n4",
+    "type_body_font": "inter_n4",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -173,7 +174,7 @@
         "settings": {
           "background": "#dbb4a8",
           "background_gradient": "",
-          "text": "#ffffff",
+          "text": "#121212",
           "button": "#ffffff",
           "button_label": "#121212",
           "secondary_button_label": "#ffffff",
