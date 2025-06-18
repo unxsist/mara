@@ -43,12 +43,15 @@
         "text",
         "button"
       ],
+      "custom_css": [
+        ".banner__box {background: rgba(255, 255, 255, 0.5); border-radius: 25px; font-weight: black;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/IMG_3271.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "image_behavior": "ambient",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "bottom-left",
         "desktop_content_alignment": "left",
         "show_text_box": true,
         "color_scheme": "scheme-5a2dcd4d-fa4a-480d-b26b-7f476a77d92a",
